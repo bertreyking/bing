@@ -10,6 +10,7 @@ export default defineConfig({
   title: "Bertreyking",
   description: "Bertreyking",
   extends: teekConfig,
+  base: '/base/'
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
