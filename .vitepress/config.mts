@@ -11,6 +11,7 @@ export default defineConfig({
   description: "Bertreyking",
   extends: teekConfig,
   base: '/base/',
+  srcDir: './docs',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
