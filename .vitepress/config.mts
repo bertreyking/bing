@@ -42,8 +42,8 @@ export default defineConfig({
       { text: 'Home', link: '/index' },
       { text: 'Docker&K8s',
         items: [
-        { text: 'Docker', link: '/docker' },
-        { text: 'Kubernetes', link: '/kubernetes' }
+        { text: 'Docker', link: '/markdown-examples' },
+        { text: 'Kubernetes', link: '/api-examples' }
         ]
       }
     ],
