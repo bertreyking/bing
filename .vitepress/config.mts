@@ -10,7 +10,7 @@ export default defineConfig({
   title: "Bertreyking",
   description: "Bertreyking",
   extends: teekConfig,
-  base: '/base/',
+  base: '/bing/',
   srcDir: './docs',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
