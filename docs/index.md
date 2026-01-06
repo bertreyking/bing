@@ -29,9 +29,9 @@ tk:
     bgStyle: "fullImg"
     pureBgColor: "#28282d"
     imgSrc:
-      - /docs/index_img/bk1.jpg
-      - ./index_img/bk2.jpg
-      - /index_img/bk3.jpg
+      - index_img/bk1.jpg
+      - index_img/bk2.jpg
+      - index_img/bk3.jpg
     imgInterval: 15000
     imgShuffle: false
     mask: true
@@ -50,5 +50,6 @@ tk:
     - 骚年，你瞅啥？
     - 人生若只如初见，何事秋风悲画扇。不思量，自难忘。 -- <<木兰词&江城子>>
     - 积跬步以至千里，致敬每个爱学习的你。 -- <<Bertreyking>>
+    - 怎能忘记旧日朋友，心中能不怀想。 -- <<友谊地久天长>>
 ---
 
