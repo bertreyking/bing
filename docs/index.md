@@ -25,13 +25,13 @@ features:
 tk:
   banner:
     enabled: true,
-    name: 嘿嘿嘿
+    name: B.R.K
     bgStyle: "fullImg"
     pureBgColor: "#28282d"
     imgSrc:
-      - ./index_img/bk1.jpg
-      - ./index_img/bk2.jpg
-      - ./index_img/bk3.jpg
+      - /bing/index_img/bk1.jpg
+      - /bing/index_img/bk2.jpg
+      - /bing/index_img/bk3.jpg
     imgInterval: 15000
     imgShuffle: false
     mask: true
@@ -47,8 +47,8 @@ tk:
     typesNextTime: 800
     typesShuffle: false
   description:
-    - 骚年,你瞅啥？
-    - 人生若只如初见，何事秋风悲画扇。不思量，自难忘。 -- 来自 <<木兰词&江城子>>
-    - 积跬步以至千里，致敬每个爱学习的你。 —— 来自 <<Bertreyking>>
+    - 骚年，你瞅啥？
+    - 人生若只如初见，何事秋风悲画扇。不思量，自难忘。 -- <<木兰词&江城子>>
+    - 积跬步以至千里，致敬每个爱学习的你。 -- <<Bertreyking>>
 ---
 
