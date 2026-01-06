@@ -29,7 +29,7 @@ tk:
     bgStyle: "fullImg"
     pureBgColor: "#28282d"
     imgSrc:
-      - /bing/index_img/bk1.jpg
+      - /docs/index_img/bk1.jpg
       - ./index_img/bk2.jpg
       - /index_img/bk3.jpg
     imgInterval: 15000
