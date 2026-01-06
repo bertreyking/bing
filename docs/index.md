@@ -29,9 +29,9 @@ tk:
     bgStyle: "fullImg"
     pureBgColor: "#28282d"
     imgSrc:
-      - /bing/index_img/bk1.jpg
-      - /bing/index_img/bk2.jpg
-      - /bing/index_img/bk3.jpg
+      - ./index_img/bk1.jpg
+      - ./index_img/bk2.jpg
+      - ./index_img/bk3.jpg
     imgInterval: 15000
     imgShuffle: false
     mask: true
